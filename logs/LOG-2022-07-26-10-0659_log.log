@@ -1,0 +1,4 @@
+10:06:59.874 [main] INFO  Curs17.LogExample - This is info level
+10:06:59.897 [main] WARN  Curs17.LogExample - This is warn level
+10:06:59.899 [main] ERROR Curs17.LogExample - This is error level
+10:06:59.899 [main] FATAL Curs17.LogExample - This is fatal level
